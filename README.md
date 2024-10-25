@@ -15,8 +15,6 @@ I'm currently expanding my knowledge in:
 - AWS Cloud Practioner
 - Japanese (Currently Learning N3 )
  
-Feel free to reach out:
-**Email**: kaungpyae.kpp16@gmail.com
 
 Thanks for stopping by, and happy coding💻!
 ## Have a Nice Day!
